@@ -1,32 +1,32 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Visual Studio
+*.suo
+*.user
+*.sln.docstates
 *.obj
-
-# Precompiled Headers
-*.gch
 *.pch
+*.tlog
+*.log
+*.scc
+*.exp
+*.ilk
+*.lastbuildstate
+vc100.pdb
+ipch
+*.sdf
+*.opensdf
+*.idb
+*.vcxproj
+*.vcxproj.filters
+*.db
+*.bat
+[Dd]ebug*/
+[Rr]elease*/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# OSX/Linux build products
+*.DS_Store
+*.mak*
+*.mak.vpc_crc
+*.project
+*.xcodeproj/
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Specific Source build products
