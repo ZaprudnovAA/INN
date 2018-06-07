@@ -15,8 +15,6 @@ ipch
 *.sdf
 *.opensdf
 *.idb
-*.vcxproj
-*.vcxproj.filters
 *.db
 *.bat
 [Dd]ebug*/
